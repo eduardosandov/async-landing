@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-eduardosandoval/async-landing.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Sandoval <eduardosandoval.atc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-eduardosandoval/async-landing/issues"
+  },
+  "homepage": "https://github.com/j-eduardosandoval/async-landing#readme"
+}
